@@ -1,0 +1,385 @@
+INFO2025-10-13 20:42:25,936 | Game of Champion 0.10 has started.
+INFO2025-10-13 20:42:25,937 | Initializing Pygame object.
+INFO2025-10-13 20:42:27,236 | Loading Game Setup module.
+INFO2025-10-13 20:42:54,102 | User has press C - Complete, to complete the human units selection.
+INFO2025-10-13 20:43:02,493 | User has pressed S - Start.
+INFO2025-10-13 20:43:02,495 | Setting up units for HM player.
+INFO2025-10-13 20:43:02,495 | Setting up unit HM57 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit HM49 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit HM46 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit HM87 player.
+INFO2025-10-13 20:43:02,495 | Setting up units for AI player.
+INFO2025-10-13 20:43:02,495 | Setting up unit AI10 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit AI75 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit AI87 player.
+INFO2025-10-13 20:43:02,495 | Setting up unit AI39 player.
+INFO2025-10-13 20:43:02,563 | Player Group: HUMANS
+INFO2025-10-13 20:43:02,563 | Total Coins :0
+INFO2025-10-13 20:43:02,563 | Index: 0 | State: ALIVE | Name: HM57| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 1 | State: ALIVE | Name: HM49| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 2 | State: ALIVE | Name: HM46| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 3 | State: ALIVE | Name: HM87| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Player Group: AIs
+INFO2025-10-13 20:43:02,563 | Total Coins :0
+INFO2025-10-13 20:43:02,563 | Index: 0 | State: ALIVE | Name: AI10| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 1 | State: ALIVE | Name: AI75| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 2 | State: ALIVE | Name: AI87| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Index: 3 | State: ALIVE | Name: AI39| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:02,563 | Battle has started.
+INFO2025-10-13 20:43:25,093 | Player Group: HUMANS
+INFO2025-10-13 20:43:25,094 | Total Coins :27
+INFO2025-10-13 20:43:25,094 | Index: 0 | State: ALIVE | Name: HM57| Prof: TANK | HP: 100 | EXP: 31 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 1 | State: ALIVE | Name: HM49| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 2 | State: ALIVE | Name: HM46| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 3 | State: ALIVE | Name: HM87| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Player Group: AIs
+INFO2025-10-13 20:43:25,094 | Total Coins :0
+INFO2025-10-13 20:43:25,094 | Index: 0 | State: ALIVE | Name: AI10| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 1 | State: ALIVE | Name: AI75| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 2 | State: ALIVE | Name: AI87| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:25,094 | Index: 3 | State: ALIVE | Name: AI39| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Player Group: HUMANS
+INFO2025-10-13 20:43:34,082 | Total Coins :56
+INFO2025-10-13 20:43:34,082 | Index: 0 | State: ALIVE | Name: HM57| Prof: TANK | HP: 100 | EXP: 69 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 1 | State: ALIVE | Name: HM49| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 2 | State: ALIVE | Name: HM46| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 3 | State: ALIVE | Name: HM87| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Player Group: AIs
+INFO2025-10-13 20:43:34,082 | Total Coins :0
+INFO2025-10-13 20:43:34,082 | Index: 0 | State: ALIVE | Name: AI10| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 1 | State: ALIVE | Name: AI75| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 2 | State: ALIVE | Name: AI87| Prof: TANK | HP: 85 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:34,082 | Index: 3 | State: ALIVE | Name: AI39| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Player Group: HUMANS
+INFO2025-10-13 20:43:45,011 | Total Coins :87
+INFO2025-10-13 20:43:45,011 | Index: 0 | State: ALIVE | Name: HM57| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 1
+INFO2025-10-13 20:43:45,011 | Index: 1 | State: ALIVE | Name: HM49| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Index: 2 | State: ALIVE | Name: HM46| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Index: 3 | State: ALIVE | Name: HM87| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Player Group: AIs
+INFO2025-10-13 20:43:45,011 | Total Coins :0
+INFO2025-10-13 20:43:45,011 | Index: 0 | State: ALIVE | Name: AI10| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Index: 1 | State: ALIVE | Name: AI75| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Index: 2 | State: ALIVE | Name: AI87| Prof: TANK | HP: 68 | EXP: 0 | ATK: 7 | DEF: 14 | Rank: 0
+INFO2025-10-13 20:43:45,011 | Index: 3 | State: ALIVE | Name: AI39| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:44:55,569 | Game of Champion 0.10 has started.
+INFO2025-10-13 20:44:55,570 | Initializing Pygame object.
+INFO2025-10-13 20:44:56,228 | Loading Game Setup module.
+INFO2025-10-13 20:45:04,294 | Setting up units for HM player.
+INFO2025-10-13 20:45:04,294 | Setting up units for AI player.
+INFO2025-10-13 20:48:18,500 | Game of Champion 0.10 has started.
+INFO2025-10-13 20:48:18,500 | Initializing Pygame object.
+INFO2025-10-13 20:48:19,110 | Loading Game Setup module.
+INFO2025-10-13 20:48:30,052 | User has press C - Complete, to complete the human units selection.
+INFO2025-10-13 20:48:32,389 | User has pressed S - Start.
+INFO2025-10-13 20:48:32,390 | Setting up units for HM player.
+INFO2025-10-13 20:48:32,391 | Setting up unit HM75 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit HM33 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit HM25 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit HM19 player.
+INFO2025-10-13 20:48:32,391 | Setting up units for AI player.
+INFO2025-10-13 20:48:32,391 | Setting up unit AI55 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit AI16 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit AI67 player.
+INFO2025-10-13 20:48:32,391 | Setting up unit AI77 player.
+INFO2025-10-13 20:48:32,459 | Player Group: HUMANS
+INFO2025-10-13 20:48:32,459 | Total Coins :0
+INFO2025-10-13 20:48:32,459 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Player Group: AIs
+INFO2025-10-13 20:48:32,459 | Total Coins :0
+INFO2025-10-13 20:48:32,459 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:48:32,459 | Battle has started.
+INFO2025-10-13 20:49:00,675 | Player Group: HUMANS
+INFO2025-10-13 20:49:00,676 | Total Coins :12
+INFO2025-10-13 20:49:00,676 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 12 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Player Group: AIs
+INFO2025-10-13 20:49:00,676 | Total Coins :0
+INFO2025-10-13 20:49:00,676 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:00,676 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,260 | Player Group: HUMANS
+INFO2025-10-13 20:49:06,261 | Total Coins :25
+INFO2025-10-13 20:49:06,261 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 25 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Player Group: AIs
+INFO2025-10-13 20:49:06,261 | Total Coins :28
+INFO2025-10-13 20:49:06,261 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 99 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:06,261 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,541 | Player Group: HUMANS
+INFO2025-10-13 20:49:10,542 | Total Coins :37
+INFO2025-10-13 20:49:10,542 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 49 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Player Group: AIs
+INFO2025-10-13 20:49:10,542 | Total Coins :28
+INFO2025-10-13 20:49:10,542 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 99 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:10,542 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,123 | Player Group: HUMANS
+INFO2025-10-13 20:49:18,124 | Total Coins :49
+INFO2025-10-13 20:49:18,124 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 85 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Player Group: AIs
+INFO2025-10-13 20:49:18,124 | Total Coins :55
+INFO2025-10-13 20:49:18,124 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 99 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:18,124 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,427 | Player Group: HUMANS
+INFO2025-10-13 20:49:25,428 | Total Coins :62
+INFO2025-10-13 20:49:25,428 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 100 | EXP: 98 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Player Group: AIs
+INFO2025-10-13 20:49:25,428 | Total Coins :55
+INFO2025-10-13 20:49:25,428 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 98 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:25,428 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Player Group: HUMANS
+INFO2025-10-13 20:49:32,076 | Total Coins :74
+INFO2025-10-13 20:49:32,076 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 12 | ATK: 14 | DEF: 5 | Rank: 1
+INFO2025-10-13 20:49:32,076 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 78 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Player Group: AIs
+INFO2025-10-13 20:49:32,076 | Total Coins :77
+INFO2025-10-13 20:49:32,076 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 98 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:32,076 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Player Group: HUMANS
+INFO2025-10-13 20:49:38,090 | Total Coins :92
+INFO2025-10-13 20:49:38,090 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 30 | ATK: 14 | DEF: 5 | Rank: 1
+INFO2025-10-13 20:49:38,090 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 66 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Player Group: AIs
+INFO2025-10-13 20:49:38,090 | Total Coins :94
+INFO2025-10-13 20:49:38,090 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 92 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:38,090 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Player Group: HUMANS
+INFO2025-10-13 20:49:42,310 | Total Coins :110
+INFO2025-10-13 20:49:42,310 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 48 | ATK: 14 | DEF: 5 | Rank: 1
+INFO2025-10-13 20:49:42,310 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 66 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Player Group: AIs
+INFO2025-10-13 20:49:42,310 | Total Coins :94
+INFO2025-10-13 20:49:42,310 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 86 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:42,310 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Player Group: HUMANS
+INFO2025-10-13 20:49:49,053 | Total Coins :123
+INFO2025-10-13 20:49:49,053 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 61 | ATK: 14 | DEF: 5 | Rank: 1
+INFO2025-10-13 20:49:49,053 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 54 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Player Group: AIs
+INFO2025-10-13 20:49:49,053 | Total Coins :111
+INFO2025-10-13 20:49:49,053 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 85 | EXP: 19 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:49,053 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,189 | Player Group: HUMANS
+INFO2025-10-13 20:49:57,189 | Total Coins :135
+INFO2025-10-13 20:49:57,189 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:49:57,190 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 54 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Player Group: AIs
+INFO2025-10-13 20:49:57,190 | Total Coins :111
+INFO2025-10-13 20:49:57,190 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 85 | EXP: 28 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:49:57,190 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Player Group: HUMANS
+INFO2025-10-13 20:50:07,049 | Total Coins :147
+INFO2025-10-13 20:50:07,049 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 12 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:50:07,049 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 54 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Player Group: AIs
+INFO2025-10-13 20:50:07,049 | Total Coins :111
+INFO2025-10-13 20:50:07,049 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 85 | EXP: 42 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:07,049 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,810 | Player Group: HUMANS
+INFO2025-10-13 20:50:11,811 | Total Coins :159
+INFO2025-10-13 20:50:11,811 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 30 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:50:11,811 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 54 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Player Group: AIs
+INFO2025-10-13 20:50:11,811 | Total Coins :111
+INFO2025-10-13 20:50:11,811 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 89 | EXP: 63 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:11,811 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Player Group: HUMANS
+INFO2025-10-13 20:50:16,857 | Total Coins :175
+INFO2025-10-13 20:50:16,857 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 46 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:50:16,857 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Player Group: AIs
+INFO2025-10-13 20:50:16,857 | Total Coins :129
+INFO2025-10-13 20:50:16,857 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 85 | EXP: 96 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:16,857 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Player Group: HUMANS
+INFO2025-10-13 20:50:23,359 | Total Coins :187
+INFO2025-10-13 20:50:23,359 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 81 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:50:23,359 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Player Group: AIs
+INFO2025-10-13 20:50:23,359 | Total Coins :129
+INFO2025-10-13 20:50:23,359 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 88 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:23,359 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:23,359 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Player Group: HUMANS
+INFO2025-10-13 20:50:26,650 | Total Coins :205
+INFO2025-10-13 20:50:26,650 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 99 | ATK: 14 | DEF: 5 | Rank: 2
+INFO2025-10-13 20:50:26,650 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Player Group: AIs
+INFO2025-10-13 20:50:26,650 | Total Coins :129
+INFO2025-10-13 20:50:26,650 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 82 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:26,650 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:26,650 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Player Group: HUMANS
+INFO2025-10-13 20:50:33,704 | Total Coins :217
+INFO2025-10-13 20:50:33,704 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 3
+INFO2025-10-13 20:50:33,704 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Player Group: AIs
+INFO2025-10-13 20:50:33,704 | Total Coins :129
+INFO2025-10-13 20:50:33,704 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 86 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:33,704 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:33,704 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Player Group: HUMANS
+INFO2025-10-13 20:50:38,053 | Total Coins :229
+INFO2025-10-13 20:50:38,053 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 12 | ATK: 14 | DEF: 5 | Rank: 3
+INFO2025-10-13 20:50:38,053 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Player Group: AIs
+INFO2025-10-13 20:50:38,053 | Total Coins :129
+INFO2025-10-13 20:50:38,053 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 86 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:38,053 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:38,053 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Player Group: HUMANS
+INFO2025-10-13 20:50:43,484 | Total Coins :241
+INFO2025-10-13 20:50:43,484 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 83 | EXP: 30 | ATK: 14 | DEF: 5 | Rank: 3
+INFO2025-10-13 20:50:43,484 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Player Group: AIs
+INFO2025-10-13 20:50:43,484 | Total Coins :129
+INFO2025-10-13 20:50:43,484 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 88 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:43,484 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:43,484 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 25 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Player Group: HUMANS
+INFO2025-10-13 20:50:47,818 | Total Coins :255
+INFO2025-10-13 20:50:47,818 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 65 | EXP: 50 | ATK: 14 | DEF: 5 | Rank: 3
+INFO2025-10-13 20:50:47,818 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Player Group: AIs
+INFO2025-10-13 20:50:47,818 | Total Coins :152
+INFO2025-10-13 20:50:47,818 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 86 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:47,818 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:47,818 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Player Group: HUMANS
+INFO2025-10-13 20:50:50,176 | Total Coins :269
+INFO2025-10-13 20:50:50,176 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 65 | EXP: 64 | ATK: 14 | DEF: 5 | Rank: 3
+INFO2025-10-13 20:50:50,176 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Player Group: AIs
+INFO2025-10-13 20:50:50,176 | Total Coins :152
+INFO2025-10-13 20:50:50,176 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:50,176 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:50,176 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:59,058 | Player Group: HUMANS
+INFO2025-10-13 20:50:59,058 | Total Coins :281
+INFO2025-10-13 20:50:59,058 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 65 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 4
+INFO2025-10-13 20:50:59,059 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:59,059 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:50:59,059 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:59,059 | Player Group: AIs
+INFO2025-10-13 20:50:59,059 | Total Coins :152
+INFO2025-10-13 20:50:59,059 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 89 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:50:59,059 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:59,059 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:50:59,059 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Player Group: HUMANS
+INFO2025-10-13 20:51:08,116 | Total Coins :295
+INFO2025-10-13 20:51:08,116 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 45 | EXP: 14 | ATK: 14 | DEF: 5 | Rank: 4
+INFO2025-10-13 20:51:08,116 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Player Group: AIs
+INFO2025-10-13 20:51:08,116 | Total Coins :177
+INFO2025-10-13 20:51:08,116 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 87 | EXP: 29 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:51:08,116 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:08,116 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Player Group: HUMANS
+INFO2025-10-13 20:51:14,041 | Total Coins :309
+INFO2025-10-13 20:51:14,041 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 45 | EXP: 28 | ATK: 14 | DEF: 5 | Rank: 4
+INFO2025-10-13 20:51:14,041 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 84 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Player Group: AIs
+INFO2025-10-13 20:51:14,041 | Total Coins :177
+INFO2025-10-13 20:51:14,041 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 89 | EXP: 29 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:51:14,041 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:14,041 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Player Group: HUMANS
+INFO2025-10-13 20:51:20,455 | Total Coins :325
+INFO2025-10-13 20:51:20,455 | Index: 0 | State: ALIVE | Name: HM75| Prof: WARRIOR | HP: 45 | EXP: 44 | ATK: 14 | DEF: 5 | Rank: 4
+INFO2025-10-13 20:51:20,455 | Index: 1 | State: ALIVE | Name: HM33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Index: 2 | State: ALIVE | Name: HM25| Prof: WARRIOR | HP: 41 | EXP: 0 | ATK: 14 | DEF: 5 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Index: 3 | State: ALIVE | Name: HM19| Prof: TANK | HP: 67 | EXP: 0 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Player Group: AIs
+INFO2025-10-13 20:51:20,455 | Total Coins :206
+INFO2025-10-13 20:51:20,455 | Index: 0 | State: ALIVE | Name: AI55| Prof: TANK | HP: 85 | EXP: 29 | ATK: 5 | DEF: 12 | Rank: 1
+INFO2025-10-13 20:51:20,455 | Index: 1 | State: ALIVE | Name: AI16| Prof: TANK | HP: 100 | EXP: 31 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Index: 2 | State: ALIVE | Name: AI67| Prof: TANK | HP: 100 | EXP: 99 | ATK: 5 | DEF: 12 | Rank: 0
+INFO2025-10-13 20:51:20,455 | Index: 3 | State: ALIVE | Name: AI77| Prof: TANK | HP: 100 | EXP: 56 | ATK: 5 | DEF: 12 | Rank: 0

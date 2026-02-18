@@ -1,0 +1,147 @@
+INFO2022-02-21 14:26:11,594 | the game has started
+INFO2022-02-21 14:27:20,581 | the game has started
+INFO2022-02-21 14:33:15,781 | the game has started
+INFO2022-02-21 14:33:32,252 | the game has started
+INFO2022-02-21 14:36:04,483 | the game has started
+INFO2022-02-21 14:36:22,741 | the game has started
+INFO2022-02-21 14:37:22,108 | the game has started
+INFO2022-02-21 15:41:09,376 | Game of Champion 0.10 has started.
+INFO2022-02-21 15:41:09,377 | Initializing Pygame object.
+INFO2022-02-21 15:41:10,818 | Loading Game Setup module.
+INFO2022-02-21 15:41:20,025 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-21 15:49:57,190 | Game of Champion 0.10 has started.
+INFO2022-02-21 15:49:57,191 | Initializing Pygame object.
+INFO2022-02-21 15:49:58,218 | Loading Game Setup module.
+INFO2022-02-21 15:50:03,362 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-21 15:50:04,742 | User has pressed S - Start.
+INFO2022-02-21 15:50:04,745 | Setting up units for HM player.
+INFO2022-02-21 15:50:04,745 | Setting up unit HM42 player.
+INFO2022-02-21 15:50:04,746 | Setting up unit HM44 player.
+INFO2022-02-21 15:50:04,746 | Setting up unit HM95 player.
+INFO2022-02-21 15:50:04,746 | Setting up units for AI player.
+INFO2022-02-21 15:50:04,746 | Setting up unit AI75 player.
+INFO2022-02-21 15:50:04,746 | Setting up unit AI85 player.
+INFO2022-02-21 15:50:04,746 | Setting up unit AI33 player.
+INFO2022-02-21 16:02:45,154 | Game of Champion 0.10 has started.
+INFO2022-02-21 16:02:45,155 | Initializing Pygame object.
+INFO2022-02-21 16:02:46,105 | Loading Game Setup module.
+INFO2022-02-21 16:02:50,505 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-21 16:02:51,299 | User has pressed S - Start.
+INFO2022-02-21 16:02:51,302 | Setting up units for HM player.
+INFO2022-02-21 16:02:51,302 | Setting up unit HM93 player.
+INFO2022-02-21 16:02:51,302 | Setting up unit HM45 player.
+INFO2022-02-21 16:02:51,302 | Setting up unit HM41 player.
+INFO2022-02-21 16:02:51,302 | Setting up units for AI player.
+INFO2022-02-21 16:02:51,302 | Setting up unit AI88 player.
+INFO2022-02-21 16:02:51,302 | Setting up unit AI32 player.
+INFO2022-02-21 16:02:51,302 | Setting up unit AI63 player.
+INFO2022-02-21 16:02:51,491 | Player Group: HUMANS
+INFO2022-02-21 16:02:51,491 | Total Coins :0
+INFO2022-02-21 16:02:51,491 | Index: 0 | State: ALIVE | Name: HM93| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 7 | Rank: 0
+INFO2022-02-21 16:02:51,491 | Index: 1 | State: ALIVE | Name: HM45| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 5 | Rank: 0
+INFO2022-02-21 16:02:51,492 | Index: 2 | State: ALIVE | Name: HM41| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 7 | Rank: 0
+INFO2022-02-21 16:02:51,492 | Player Group: AIs
+INFO2022-02-21 16:02:51,492 | Total Coins :0
+INFO2022-02-21 16:02:51,492 | Index: 0 | State: ALIVE | Name: AI88| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 5 | Rank: 0
+INFO2022-02-21 16:02:51,492 | Index: 1 | State: ALIVE | Name: AI32| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 5 | Rank: 0
+INFO2022-02-21 16:02:51,492 | Index: 2 | State: ALIVE | Name: AI63| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 5 | Rank: 0
+INFO2022-02-21 16:02:51,492 | Battle has started.
+INFO2022-02-21 16:13:06,842 | Game of Champion 0.10 has started.
+INFO2022-02-21 16:13:06,842 | Initializing Pygame object.
+INFO2022-02-21 16:13:08,047 | Loading Game Setup module.
+INFO2022-02-21 16:13:20,605 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-21 16:13:22,392 | User has pressed S - Start.
+INFO2022-02-21 16:13:22,394 | Setting up units for HM player.
+INFO2022-02-21 16:13:22,395 | Setting up unit HM27 player.
+INFO2022-02-21 16:13:22,396 | Setting up unit HM48 player.
+INFO2022-02-21 16:13:22,396 | Setting up unit HM38 player.
+INFO2022-02-21 16:13:22,396 | Setting up units for AI player.
+INFO2022-02-21 16:13:22,396 | Setting up unit AI85 player.
+INFO2022-02-21 16:13:22,396 | Setting up unit AI72 player.
+INFO2022-02-21 16:13:22,396 | Setting up unit AI27 player.
+INFO2022-02-21 16:13:22,677 | Player Group: HUMANS
+INFO2022-02-21 16:13:22,678 | Total Coins :0
+INFO2022-02-21 16:13:22,678 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Player Group: AIs
+INFO2022-02-21 16:13:22,678 | Total Coins :0
+INFO2022-02-21 16:13:22,678 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:13:22,678 | Battle has started.
+INFO2022-02-21 16:13:24,095 | Player Group: HUMANS
+INFO2022-02-21 16:13:24,095 | Total Coins :8
+INFO2022-02-21 16:13:24,095 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:24,095 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:13:24,095 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:24,095 | Player Group: AIs
+INFO2022-02-21 16:13:24,095 | Total Coins :0
+INFO2022-02-21 16:13:24,095 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:24,095 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:13:24,095 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:15:52,860 | Player Group: HUMANS
+INFO2022-02-21 16:15:52,862 | Total Coins :16
+INFO2022-02-21 16:15:52,862 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 20 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:15:52,862 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:15:52,862 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:15:52,863 | Player Group: AIs
+INFO2022-02-21 16:15:52,863 | Total Coins :8
+INFO2022-02-21 16:15:52,863 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 100 | EXP: 12 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:15:52,863 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:15:52,863 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:26,289 | Player Group: HUMANS
+INFO2022-02-21 16:16:26,289 | Total Coins :28
+INFO2022-02-21 16:16:26,289 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 32 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:26,289 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:26,289 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:26,289 | Player Group: AIs
+INFO2022-02-21 16:16:26,289 | Total Coins :24
+INFO2022-02-21 16:16:26,289 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 96 | EXP: 26 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:26,290 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:26,290 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:29,537 | Player Group: HUMANS
+INFO2022-02-21 16:16:29,537 | Total Coins :41
+INFO2022-02-21 16:16:29,537 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 45 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:29,537 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:29,537 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:29,537 | Player Group: AIs
+INFO2022-02-21 16:16:29,537 | Total Coins :24
+INFO2022-02-21 16:16:29,538 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 91 | EXP: 26 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:29,538 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:29,538 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:34,127 | Player Group: HUMANS
+INFO2022-02-21 16:16:34,127 | Total Coins :55
+INFO2022-02-21 16:16:34,127 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 59 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:34,127 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:34,128 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:34,128 | Player Group: AIs
+INFO2022-02-21 16:16:34,128 | Total Coins :24
+INFO2022-02-21 16:16:34,128 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 85 | EXP: 26 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:34,128 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:34,128 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:37,148 | Player Group: HUMANS
+INFO2022-02-21 16:16:37,148 | Total Coins :68
+INFO2022-02-21 16:16:37,148 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 72 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:37,148 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:37,148 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:37,148 | Player Group: AIs
+INFO2022-02-21 16:16:37,149 | Total Coins :24
+INFO2022-02-21 16:16:37,149 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 87 | EXP: 26 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:37,149 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:37,149 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Player Group: HUMANS
+INFO2022-02-21 16:16:45,154 | Total Coins :81
+INFO2022-02-21 16:16:45,154 | Index: 0 | State: ALIVE | Name: HM27| Prof: WARRIOR | HP: 100 | EXP: 85 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Index: 1 | State: ALIVE | Name: HM48| Prof: TANK | HP: 100 | EXP: 0 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Index: 2 | State: ALIVE | Name: HM38| Prof: WARRIOR | HP: 81 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Player Group: AIs
+INFO2022-02-21 16:16:45,154 | Total Coins :51
+INFO2022-02-21 16:16:45,154 | Index: 0 | State: ALIVE | Name: AI85| Prof: WARRIOR | HP: 82 | EXP: 26 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Index: 1 | State: ALIVE | Name: AI72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-21 16:16:45,154 | Index: 2 | State: ALIVE | Name: AI27| Prof: TANK | HP: 100 | EXP: 30 | ATK: 4 | DEF: 12 | Rank: 0
+INFO2022-02-21 16:18:07,550 | Game of Champion 0.10 has started.
+INFO2022-02-21 16:18:07,550 | Initializing Pygame object.
+INFO2022-02-21 16:18:08,672 | Loading Game Setup module.
+INFO2022-02-21 16:18:11,760 | Setting up units for HM player.
+INFO2022-02-21 16:18:11,761 | Setting up units for AI player.

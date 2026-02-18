@@ -1,0 +1,38 @@
+INFO2022-03-02 15:36:36,229 | Game of Champion 0.10 has started.
+INFO2022-03-02 15:36:36,230 | Initializing Pygame object.
+INFO2022-03-02 15:36:37,442 | Loading Game Setup module.
+INFO2022-03-02 15:41:56,863 | User has pressed R - Reset to reset the selection.
+INFO2022-03-02 15:47:06,124 | User has pressed R - Reset to reset the selection.
+INFO2022-03-02 15:49:00,009 | User has press C - Complete, to complete the human units selection.
+INFO2022-03-02 15:50:39,832 | User has pressed S - Start.
+INFO2022-03-02 15:50:39,880 | Setting up units for HM player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM78 player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM28 player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM15 player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM03 player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM40 player.
+INFO2022-03-02 15:50:39,881 | Setting up unit HM46 player.
+INFO2022-03-02 15:50:39,882 | Setting up units for AI player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI15 player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI80 player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI52 player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI56 player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI20 player.
+INFO2022-03-02 15:50:39,882 | Setting up unit AI28 player.
+INFO2022-03-02 15:50:40,162 | Player Group: HUMANS
+INFO2022-03-02 15:50:40,162 | Total Coins :0
+INFO2022-03-02 15:50:40,162 | Index: 0 | State: ALIVE | Name: HM78| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 1 | State: ALIVE | Name: HM28| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 11 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 2 | State: ALIVE | Name: HM15| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 3 | State: ALIVE | Name: HM03| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 11 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 4 | State: ALIVE | Name: HM40| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 5 | State: ALIVE | Name: HM46| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 11 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Player Group: AIs
+INFO2022-03-02 15:50:40,163 | Total Coins :0
+INFO2022-03-02 15:50:40,163 | Index: 0 | State: ALIVE | Name: AI15| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 1 | State: ALIVE | Name: AI80| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 11 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 2 | State: ALIVE | Name: AI52| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 3 | State: ALIVE | Name: AI56| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 4 | State: ALIVE | Name: AI20| Prof: TANK | HP: 100 | EXP: 0 | ATK: 5 | DEF: 11 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Index: 5 | State: ALIVE | Name: AI28| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 14 | DEF: 6 | Rank: 0
+INFO2022-03-02 15:50:40,163 | Battle has started.

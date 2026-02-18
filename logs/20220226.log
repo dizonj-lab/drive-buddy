@@ -1,0 +1,756 @@
+INFO2022-02-26 10:28:13,070 | Game of Champion 0.10 has started.
+INFO2022-02-26 10:28:13,070 | Initializing Pygame object.
+INFO2022-02-26 10:28:14,266 | Loading Game Setup module.
+INFO2022-02-26 10:28:18,240 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-26 10:28:20,692 | User has pressed S - Start.
+INFO2022-02-26 10:28:20,695 | Setting up units for HM player.
+INFO2022-02-26 10:28:20,695 | Setting up unit HM08 player.
+INFO2022-02-26 10:28:20,696 | Setting up unit HM29 player.
+INFO2022-02-26 10:28:20,696 | Setting up units for AI player.
+INFO2022-02-26 10:28:20,696 | Setting up unit AI36 player.
+INFO2022-02-26 10:28:20,696 | Setting up unit AI26 player.
+INFO2022-02-26 10:28:20,976 | Player Group: HUMANS
+INFO2022-02-26 10:28:20,976 | Total Coins :0
+INFO2022-02-26 10:28:20,976 | Index: 0 | State: ALIVE | Name: HM08| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 9 | Rank: 0
+INFO2022-02-26 10:28:20,976 | Index: 1 | State: ALIVE | Name: HM29| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:28:20,976 | Player Group: AIs
+INFO2022-02-26 10:28:20,976 | Total Coins :0
+INFO2022-02-26 10:28:20,976 | Index: 0 | State: ALIVE | Name: AI36| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:28:20,976 | Index: 1 | State: ALIVE | Name: AI26| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:28:20,976 | Battle has started.
+INFO2022-02-26 10:28:28,014 | Player Group: HUMANS
+INFO2022-02-26 10:28:28,014 | Total Coins :33
+INFO2022-02-26 10:28:28,014 | Index: 0 | State: ALIVE | Name: HM08| Prof: WARRIOR | HP: 100 | EXP: 36 | ATK: 6 | DEF: 9 | Rank: 0
+INFO2022-02-26 10:28:28,014 | Index: 1 | State: ALIVE | Name: HM29| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:28:28,014 | Player Group: AIs
+INFO2022-02-26 10:28:28,014 | Total Coins :0
+INFO2022-02-26 10:28:28,014 | Index: 0 | State: ALIVE | Name: AI36| Prof: TANK | HP: 82 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:28:28,014 | Index: 1 | State: ALIVE | Name: AI26| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 10:55:01,393 | Game of Champion 0.10 has started.
+INFO2022-02-26 10:55:01,393 | Initializing Pygame object.
+INFO2022-02-26 10:55:02,465 | Loading Game Setup module.
+INFO2022-02-26 10:55:06,146 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-26 10:55:10,925 | User has pressed S - Start.
+INFO2022-02-26 10:55:10,930 | Setting up units for HM player.
+INFO2022-02-26 10:55:10,930 | Setting up unit HM72 player.
+INFO2022-02-26 10:55:10,930 | Setting up units for AI player.
+INFO2022-02-26 10:55:10,930 | Setting up unit AI35 player.
+INFO2022-02-26 10:55:11,147 | Player Group: HUMANS
+INFO2022-02-26 10:55:11,147 | Total Coins :0
+INFO2022-02-26 10:55:11,147 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:11,147 | Player Group: AIs
+INFO2022-02-26 10:55:11,147 | Total Coins :0
+INFO2022-02-26 10:55:11,147 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:11,147 | Battle has started.
+INFO2022-02-26 10:55:17,521 | Player Group: HUMANS
+INFO2022-02-26 10:55:17,521 | Total Coins :11
+INFO2022-02-26 10:55:17,521 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 11 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:17,522 | Player Group: AIs
+INFO2022-02-26 10:55:17,522 | Total Coins :0
+INFO2022-02-26 10:55:17,522 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 97 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:20,441 | Player Group: HUMANS
+INFO2022-02-26 10:55:20,441 | Total Coins :22
+INFO2022-02-26 10:55:20,441 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 22 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:20,441 | Player Group: AIs
+INFO2022-02-26 10:55:20,441 | Total Coins :0
+INFO2022-02-26 10:55:20,441 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 94 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:22,910 | Player Group: HUMANS
+INFO2022-02-26 10:55:22,910 | Total Coins :34
+INFO2022-02-26 10:55:22,910 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 34 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:22,910 | Player Group: AIs
+INFO2022-02-26 10:55:22,910 | Total Coins :0
+INFO2022-02-26 10:55:22,910 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 90 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:29,711 | Player Group: HUMANS
+INFO2022-02-26 10:55:29,711 | Total Coins :42
+INFO2022-02-26 10:55:29,711 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 84 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:29,711 | Player Group: AIs
+INFO2022-02-26 10:55:29,711 | Total Coins :8
+INFO2022-02-26 10:55:29,711 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 90 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:35,402 | Player Group: HUMANS
+INFO2022-02-26 10:55:35,403 | Total Coins :50
+INFO2022-02-26 10:55:35,403 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:35,403 | Player Group: AIs
+INFO2022-02-26 10:55:35,403 | Total Coins :18
+INFO2022-02-26 10:55:35,403 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 90 | EXP: 33 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:37,751 | Player Group: HUMANS
+INFO2022-02-26 10:55:37,751 | Total Coins :62
+INFO2022-02-26 10:55:37,752 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:37,752 | Player Group: AIs
+INFO2022-02-26 10:55:37,752 | Total Coins :18
+INFO2022-02-26 10:55:37,752 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 86 | EXP: 33 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:43,176 | Player Group: HUMANS
+INFO2022-02-26 10:55:43,176 | Total Coins :70
+INFO2022-02-26 10:55:43,176 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:43,176 | Player Group: AIs
+INFO2022-02-26 10:55:43,176 | Total Coins :18
+INFO2022-02-26 10:55:43,176 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 90 | EXP: 49 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:47,919 | Player Group: HUMANS
+INFO2022-02-26 10:55:47,919 | Total Coins :79
+INFO2022-02-26 10:55:47,919 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 35 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:47,919 | Player Group: AIs
+INFO2022-02-26 10:55:47,919 | Total Coins :18
+INFO2022-02-26 10:55:47,919 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 92 | EXP: 49 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:52,664 | Player Group: HUMANS
+INFO2022-02-26 10:55:52,664 | Total Coins :88
+INFO2022-02-26 10:55:52,664 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 44 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:52,665 | Player Group: AIs
+INFO2022-02-26 10:55:52,665 | Total Coins :18
+INFO2022-02-26 10:55:52,665 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 96 | EXP: 49 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:55:57,411 | Player Group: HUMANS
+INFO2022-02-26 10:55:57,411 | Total Coins :96
+INFO2022-02-26 10:55:57,411 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 74 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:55:57,411 | Player Group: AIs
+INFO2022-02-26 10:55:57,411 | Total Coins :18
+INFO2022-02-26 10:55:57,411 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 100 | EXP: 73 | ATK: 19 | DEF: 8 | Rank: 0
+INFO2022-02-26 10:56:02,148 | Player Group: HUMANS
+INFO2022-02-26 10:56:02,148 | Total Coins :107
+INFO2022-02-26 10:56:02,148 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 11 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:56:02,148 | Player Group: AIs
+INFO2022-02-26 10:56:02,148 | Total Coins :26
+INFO2022-02-26 10:56:02,148 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 97 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:06,889 | Player Group: HUMANS
+INFO2022-02-26 10:56:06,889 | Total Coins :115
+INFO2022-02-26 10:56:06,890 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 24 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:56:06,890 | Player Group: AIs
+INFO2022-02-26 10:56:06,890 | Total Coins :26
+INFO2022-02-26 10:56:06,890 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:14,117 | Player Group: HUMANS
+INFO2022-02-26 10:56:14,117 | Total Coins :125
+INFO2022-02-26 10:56:14,117 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 46 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:56:14,117 | Player Group: AIs
+INFO2022-02-26 10:56:14,117 | Total Coins :34
+INFO2022-02-26 10:56:14,117 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 98 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:17,761 | Player Group: HUMANS
+INFO2022-02-26 10:56:17,761 | Total Coins :136
+INFO2022-02-26 10:56:17,762 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 57 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:56:17,762 | Player Group: AIs
+INFO2022-02-26 10:56:17,762 | Total Coins :34
+INFO2022-02-26 10:56:17,762 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 95 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:19,713 | Player Group: HUMANS
+INFO2022-02-26 10:56:19,713 | Total Coins :148
+INFO2022-02-26 10:56:19,713 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 69 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:56:19,714 | Player Group: AIs
+INFO2022-02-26 10:56:19,714 | Total Coins :34
+INFO2022-02-26 10:56:19,714 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 91 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:26,690 | Player Group: HUMANS
+INFO2022-02-26 10:56:26,690 | Total Coins :156
+INFO2022-02-26 10:56:26,690 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:56:26,690 | Player Group: AIs
+INFO2022-02-26 10:56:26,690 | Total Coins :34
+INFO2022-02-26 10:56:26,690 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 94 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:29,601 | Player Group: HUMANS
+INFO2022-02-26 10:56:29,601 | Total Coins :167
+INFO2022-02-26 10:56:29,601 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 11 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:56:29,601 | Player Group: AIs
+INFO2022-02-26 10:56:29,601 | Total Coins :34
+INFO2022-02-26 10:56:29,601 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 91 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:32,373 | Player Group: HUMANS
+INFO2022-02-26 10:56:32,373 | Total Coins :179
+INFO2022-02-26 10:56:32,373 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 23 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:56:32,373 | Player Group: AIs
+INFO2022-02-26 10:56:32,373 | Total Coins :34
+INFO2022-02-26 10:56:32,373 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 87 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:56:39,198 | Player Group: HUMANS
+INFO2022-02-26 10:56:39,198 | Total Coins :190
+INFO2022-02-26 10:56:39,198 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 34 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:56:39,198 | Player Group: AIs
+INFO2022-02-26 10:56:39,198 | Total Coins :34
+INFO2022-02-26 10:56:39,198 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 87 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:08,592 | Player Group: HUMANS
+INFO2022-02-26 10:57:08,592 | Total Coins :198
+INFO2022-02-26 10:57:08,592 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 59 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:57:08,592 | Player Group: AIs
+INFO2022-02-26 10:57:08,593 | Total Coins :34
+INFO2022-02-26 10:57:08,593 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 87 | EXP: 18 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:10,765 | Player Group: HUMANS
+INFO2022-02-26 10:57:10,765 | Total Coins :209
+INFO2022-02-26 10:57:10,765 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 70 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:57:10,765 | Player Group: AIs
+INFO2022-02-26 10:57:10,765 | Total Coins :34
+INFO2022-02-26 10:57:10,765 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 84 | EXP: 18 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:16,602 | Player Group: HUMANS
+INFO2022-02-26 10:57:16,602 | Total Coins :221
+INFO2022-02-26 10:57:16,602 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:57:16,602 | Player Group: AIs
+INFO2022-02-26 10:57:16,602 | Total Coins :42
+INFO2022-02-26 10:57:16,603 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 80 | EXP: 35 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:20,276 | Player Group: HUMANS
+INFO2022-02-26 10:57:20,276 | Total Coins :229
+INFO2022-02-26 10:57:20,276 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:57:20,276 | Player Group: AIs
+INFO2022-02-26 10:57:20,276 | Total Coins :42
+INFO2022-02-26 10:57:20,276 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 80 | EXP: 52 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:25,464 | Player Group: HUMANS
+INFO2022-02-26 10:57:25,464 | Total Coins :237
+INFO2022-02-26 10:57:25,464 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 47 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:57:25,464 | Player Group: AIs
+INFO2022-02-26 10:57:25,465 | Total Coins :42
+INFO2022-02-26 10:57:25,465 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 82 | EXP: 78 | ATK: 19 | DEF: 8 | Rank: 1
+INFO2022-02-26 10:57:30,643 | Player Group: HUMANS
+INFO2022-02-26 10:57:30,643 | Total Coins :245
+INFO2022-02-26 10:57:30,643 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 78 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:57:30,643 | Player Group: AIs
+INFO2022-02-26 10:57:30,644 | Total Coins :42
+INFO2022-02-26 10:57:30,644 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 84 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:57:38,046 | Player Group: HUMANS
+INFO2022-02-26 10:57:38,046 | Total Coins :253
+INFO2022-02-26 10:57:38,046 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 5
+INFO2022-02-26 10:57:38,046 | Player Group: AIs
+INFO2022-02-26 10:57:38,046 | Total Coins :50
+INFO2022-02-26 10:57:38,046 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 84 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:57:43,485 | Player Group: HUMANS
+INFO2022-02-26 10:57:43,485 | Total Coins :264
+INFO2022-02-26 10:57:43,485 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 23 | ATK: 19 | DEF: 8 | Rank: 5
+INFO2022-02-26 10:57:43,485 | Player Group: AIs
+INFO2022-02-26 10:57:43,485 | Total Coins :58
+INFO2022-02-26 10:57:43,485 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 81 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:57:48,694 | Player Group: HUMANS
+INFO2022-02-26 10:57:48,694 | Total Coins :276
+INFO2022-02-26 10:57:48,694 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 35 | ATK: 19 | DEF: 8 | Rank: 5
+INFO2022-02-26 10:57:48,694 | Player Group: AIs
+INFO2022-02-26 10:57:48,694 | Total Coins :58
+INFO2022-02-26 10:57:48,694 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 79 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:57:50,674 | Player Group: HUMANS
+INFO2022-02-26 10:57:50,674 | Total Coins :284
+INFO2022-02-26 10:57:50,674 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 60 | ATK: 19 | DEF: 8 | Rank: 5
+INFO2022-02-26 10:57:50,674 | Player Group: AIs
+INFO2022-02-26 10:57:50,674 | Total Coins :58
+INFO2022-02-26 10:57:50,674 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 79 | EXP: 39 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:57:55,415 | Player Group: HUMANS
+INFO2022-02-26 10:57:55,416 | Total Coins :292
+INFO2022-02-26 10:57:55,416 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 98 | ATK: 19 | DEF: 8 | Rank: 5
+INFO2022-02-26 10:57:55,416 | Player Group: AIs
+INFO2022-02-26 10:57:55,416 | Total Coins :58
+INFO2022-02-26 10:57:55,416 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 82 | EXP: 58 | ATK: 19 | DEF: 8 | Rank: 2
+INFO2022-02-26 10:58:00,158 | Player Group: HUMANS
+INFO2022-02-26 10:58:00,158 | Total Coins :300
+INFO2022-02-26 10:58:00,158 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 6
+INFO2022-02-26 10:58:00,158 | Player Group: AIs
+INFO2022-02-26 10:58:00,159 | Total Coins :66
+INFO2022-02-26 10:58:00,159 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 82 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:04,103 | Player Group: HUMANS
+INFO2022-02-26 10:58:04,104 | Total Coins :308
+INFO2022-02-26 10:58:04,104 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 20 | ATK: 19 | DEF: 8 | Rank: 6
+INFO2022-02-26 10:58:04,104 | Player Group: AIs
+INFO2022-02-26 10:58:04,104 | Total Coins :66
+INFO2022-02-26 10:58:04,104 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 82 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:09,321 | Player Group: HUMANS
+INFO2022-02-26 10:58:09,321 | Total Coins :317
+INFO2022-02-26 10:58:09,321 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 29 | ATK: 19 | DEF: 8 | Rank: 6
+INFO2022-02-26 10:58:09,321 | Player Group: AIs
+INFO2022-02-26 10:58:09,321 | Total Coins :66
+INFO2022-02-26 10:58:09,321 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:14,884 | Player Group: HUMANS
+INFO2022-02-26 10:58:14,885 | Total Coins :325
+INFO2022-02-26 10:58:14,885 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 51 | ATK: 19 | DEF: 8 | Rank: 6
+INFO2022-02-26 10:58:14,885 | Player Group: AIs
+INFO2022-02-26 10:58:14,885 | Total Coins :66
+INFO2022-02-26 10:58:14,885 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 85 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:17,274 | Player Group: HUMANS
+INFO2022-02-26 10:58:17,274 | Total Coins :333
+INFO2022-02-26 10:58:17,274 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 100 | EXP: 84 | ATK: 19 | DEF: 8 | Rank: 6
+INFO2022-02-26 10:58:17,274 | Player Group: AIs
+INFO2022-02-26 10:58:17,274 | Total Coins :66
+INFO2022-02-26 10:58:17,274 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 85 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:22,894 | Player Group: HUMANS
+INFO2022-02-26 10:58:22,894 | Total Coins :341
+INFO2022-02-26 10:58:22,894 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 7
+INFO2022-02-26 10:58:22,894 | Player Group: AIs
+INFO2022-02-26 10:58:22,894 | Total Coins :76
+INFO2022-02-26 10:58:22,894 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 85 | EXP: 15 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:28,336 | Player Group: HUMANS
+INFO2022-02-26 10:58:28,338 | Total Coins :353
+INFO2022-02-26 10:58:28,338 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 7
+INFO2022-02-26 10:58:28,338 | Player Group: AIs
+INFO2022-02-26 10:58:28,339 | Total Coins :84
+INFO2022-02-26 10:58:28,339 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 81 | EXP: 30 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:33,948 | Player Group: HUMANS
+INFO2022-02-26 10:58:33,948 | Total Coins :361
+INFO2022-02-26 10:58:33,948 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 7
+INFO2022-02-26 10:58:33,948 | Player Group: AIs
+INFO2022-02-26 10:58:33,948 | Total Coins :84
+INFO2022-02-26 10:58:33,948 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 85 | EXP: 45 | ATK: 19 | DEF: 8 | Rank: 3
+INFO2022-02-26 10:58:39,454 | Player Group: HUMANS
+INFO2022-02-26 10:58:39,454 | Total Coins :369
+INFO2022-02-26 10:58:39,454 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 66 | ATK: 19 | DEF: 8 | Rank: 7
+INFO2022-02-26 10:58:39,454 | Player Group: AIs
+INFO2022-02-26 10:58:39,454 | Total Coins :92
+INFO2022-02-26 10:58:39,454 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 85 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:58:43,049 | Player Group: HUMANS
+INFO2022-02-26 10:58:43,049 | Total Coins :379
+INFO2022-02-26 10:58:43,049 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 76 | ATK: 19 | DEF: 8 | Rank: 7
+INFO2022-02-26 10:58:43,049 | Player Group: AIs
+INFO2022-02-26 10:58:43,049 | Total Coins :92
+INFO2022-02-26 10:58:43,049 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:58:45,473 | Player Group: HUMANS
+INFO2022-02-26 10:58:45,473 | Total Coins :387
+INFO2022-02-26 10:58:45,473 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 8
+INFO2022-02-26 10:58:45,473 | Player Group: AIs
+INFO2022-02-26 10:58:45,473 | Total Coins :92
+INFO2022-02-26 10:58:45,473 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:58:50,885 | Player Group: HUMANS
+INFO2022-02-26 10:58:50,885 | Total Coins :399
+INFO2022-02-26 10:58:50,885 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 8
+INFO2022-02-26 10:58:50,885 | Player Group: AIs
+INFO2022-02-26 10:58:50,885 | Total Coins :100
+INFO2022-02-26 10:58:50,885 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 79 | EXP: 8 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:58:56,113 | Player Group: HUMANS
+INFO2022-02-26 10:58:56,113 | Total Coins :407
+INFO2022-02-26 10:58:56,113 | Index: 0 | State: ALIVE | Name: HM72| Prof: WARRIOR | HP: 98 | EXP: 26 | ATK: 19 | DEF: 8 | Rank: 8
+INFO2022-02-26 10:58:56,113 | Player Group: AIs
+INFO2022-02-26 10:58:56,113 | Total Coins :100
+INFO2022-02-26 10:58:56,113 | Index: 0 | State: ALIVE | Name: AI35| Prof: WARRIOR | HP: 84 | EXP: 12 | ATK: 19 | DEF: 8 | Rank: 4
+INFO2022-02-26 10:59:12,564 | Game of Champion 0.10 has started.
+INFO2022-02-26 10:59:12,564 | Initializing Pygame object.
+INFO2022-02-26 10:59:13,624 | Loading Game Setup module.
+INFO2022-02-26 10:59:17,427 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-26 10:59:18,218 | User has pressed S - Start.
+INFO2022-02-26 10:59:18,221 | Setting up units for HM player.
+INFO2022-02-26 10:59:18,221 | Setting up unit HM63 player.
+INFO2022-02-26 10:59:18,221 | Setting up units for AI player.
+INFO2022-02-26 10:59:18,221 | Setting up unit AI25 player.
+INFO2022-02-26 10:59:18,388 | Player Group: HUMANS
+INFO2022-02-26 10:59:18,388 | Total Coins :0
+INFO2022-02-26 10:59:18,388 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:18,389 | Player Group: AIs
+INFO2022-02-26 10:59:18,389 | Total Coins :0
+INFO2022-02-26 10:59:18,389 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:18,389 | Battle has started.
+INFO2022-02-26 10:59:20,379 | Player Group: HUMANS
+INFO2022-02-26 10:59:20,379 | Total Coins :14
+INFO2022-02-26 10:59:20,380 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 100 | EXP: 14 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:20,380 | Player Group: AIs
+INFO2022-02-26 10:59:20,380 | Total Coins :0
+INFO2022-02-26 10:59:20,380 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 91 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:22,717 | Player Group: HUMANS
+INFO2022-02-26 10:59:22,717 | Total Coins :27
+INFO2022-02-26 10:59:22,717 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 100 | EXP: 27 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:22,717 | Player Group: AIs
+INFO2022-02-26 10:59:22,718 | Total Coins :0
+INFO2022-02-26 10:59:22,718 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 83 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:28,244 | Player Group: HUMANS
+INFO2022-02-26 10:59:28,244 | Total Coins :42
+INFO2022-02-26 10:59:28,244 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 90 | EXP: 42 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:28,244 | Player Group: AIs
+INFO2022-02-26 10:59:28,244 | Total Coins :15
+INFO2022-02-26 10:59:28,244 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 73 | EXP: 15 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:31,674 | Player Group: HUMANS
+INFO2022-02-26 10:59:31,674 | Total Coins :55
+INFO2022-02-26 10:59:31,674 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 90 | EXP: 55 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:31,674 | Player Group: AIs
+INFO2022-02-26 10:59:31,674 | Total Coins :15
+INFO2022-02-26 10:59:31,674 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 65 | EXP: 15 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:33,836 | Player Group: HUMANS
+INFO2022-02-26 10:59:33,836 | Total Coins :74
+INFO2022-02-26 10:59:33,836 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 90 | EXP: 87 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:33,836 | Player Group: AIs
+INFO2022-02-26 10:59:33,836 | Total Coins :15
+INFO2022-02-26 10:59:33,836 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 51 | EXP: 18 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:35,727 | Player Group: HUMANS
+INFO2022-02-26 10:59:35,727 | Total Coins :85
+INFO2022-02-26 10:59:35,727 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 90 | EXP: 98 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:35,727 | Player Group: AIs
+INFO2022-02-26 10:59:35,728 | Total Coins :15
+INFO2022-02-26 10:59:35,728 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 45 | EXP: 18 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:37,664 | Player Group: HUMANS
+INFO2022-02-26 10:59:37,664 | Total Coins :98
+INFO2022-02-26 10:59:37,664 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 90 | EXP: 0 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:37,665 | Player Group: AIs
+INFO2022-02-26 10:59:37,665 | Total Coins :15
+INFO2022-02-26 10:59:37,665 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 37 | EXP: 18 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:42,410 | Player Group: HUMANS
+INFO2022-02-26 10:59:42,410 | Total Coins :117
+INFO2022-02-26 10:59:42,411 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 21 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:42,411 | Player Group: AIs
+INFO2022-02-26 10:59:42,411 | Total Coins :27
+INFO2022-02-26 10:59:42,411 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 23 | EXP: 36 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:43,852 | Player Group: HUMANS
+INFO2022-02-26 10:59:43,853 | Total Coins :136
+INFO2022-02-26 10:59:43,853 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 47 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:43,853 | Player Group: AIs
+INFO2022-02-26 10:59:43,853 | Total Coins :27
+INFO2022-02-26 10:59:43,853 | Index: 0 | State: ALIVE | Name: AI25| Prof: WARRIOR | HP: 9 | EXP: 43 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:45,818 | Player Group: HUMANS
+INFO2022-02-26 10:59:45,819 | Total Coins :152
+INFO2022-02-26 10:59:45,819 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:45,819 | Player Group: AIs
+INFO2022-02-26 10:59:45,819 | Total Coins :27
+INFO2022-02-26 10:59:45,819 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:46,113 | Player Group: HUMANS
+INFO2022-02-26 10:59:46,113 | Total Coins :152
+INFO2022-02-26 10:59:46,113 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:46,113 | Player Group: AIs
+INFO2022-02-26 10:59:46,113 | Total Coins :27
+INFO2022-02-26 10:59:46,113 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:46,118 | Player Group: HUMANS
+INFO2022-02-26 10:59:46,119 | Total Coins :152
+INFO2022-02-26 10:59:46,119 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:46,119 | Player Group: AIs
+INFO2022-02-26 10:59:46,119 | Total Coins :27
+INFO2022-02-26 10:59:46,120 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:46,125 | Player Group: HUMANS
+INFO2022-02-26 10:59:46,125 | Total Coins :152
+INFO2022-02-26 10:59:46,126 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:46,126 | Player Group: AIs
+INFO2022-02-26 10:59:46,126 | Total Coins :27
+INFO2022-02-26 10:59:46,126 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,208 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,208 | Total Coins :152
+INFO2022-02-26 10:59:57,208 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,208 | Player Group: AIs
+INFO2022-02-26 10:59:57,208 | Total Coins :27
+INFO2022-02-26 10:59:57,208 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,220 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,220 | Total Coins :152
+INFO2022-02-26 10:59:57,220 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,220 | Player Group: AIs
+INFO2022-02-26 10:59:57,220 | Total Coins :27
+INFO2022-02-26 10:59:57,221 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,226 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,227 | Total Coins :152
+INFO2022-02-26 10:59:57,227 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,227 | Player Group: AIs
+INFO2022-02-26 10:59:57,227 | Total Coins :27
+INFO2022-02-26 10:59:57,227 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,233 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,233 | Total Coins :152
+INFO2022-02-26 10:59:57,233 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,233 | Player Group: AIs
+INFO2022-02-26 10:59:57,233 | Total Coins :27
+INFO2022-02-26 10:59:57,233 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,241 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,241 | Total Coins :152
+INFO2022-02-26 10:59:57,241 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,241 | Player Group: AIs
+INFO2022-02-26 10:59:57,241 | Total Coins :27
+INFO2022-02-26 10:59:57,241 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,249 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,249 | Total Coins :152
+INFO2022-02-26 10:59:57,249 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,249 | Player Group: AIs
+INFO2022-02-26 10:59:57,249 | Total Coins :27
+INFO2022-02-26 10:59:57,249 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,256 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,256 | Total Coins :152
+INFO2022-02-26 10:59:57,256 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,256 | Player Group: AIs
+INFO2022-02-26 10:59:57,256 | Total Coins :27
+INFO2022-02-26 10:59:57,257 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,265 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,266 | Total Coins :152
+INFO2022-02-26 10:59:57,266 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,266 | Player Group: AIs
+INFO2022-02-26 10:59:57,266 | Total Coins :27
+INFO2022-02-26 10:59:57,266 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,279 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,279 | Total Coins :152
+INFO2022-02-26 10:59:57,280 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,280 | Player Group: AIs
+INFO2022-02-26 10:59:57,280 | Total Coins :27
+INFO2022-02-26 10:59:57,280 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,295 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,296 | Total Coins :152
+INFO2022-02-26 10:59:57,296 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,297 | Player Group: AIs
+INFO2022-02-26 10:59:57,297 | Total Coins :27
+INFO2022-02-26 10:59:57,297 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,312 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,312 | Total Coins :152
+INFO2022-02-26 10:59:57,312 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,312 | Player Group: AIs
+INFO2022-02-26 10:59:57,313 | Total Coins :27
+INFO2022-02-26 10:59:57,313 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,328 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,328 | Total Coins :152
+INFO2022-02-26 10:59:57,329 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,329 | Player Group: AIs
+INFO2022-02-26 10:59:57,329 | Total Coins :27
+INFO2022-02-26 10:59:57,329 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,344 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,345 | Total Coins :152
+INFO2022-02-26 10:59:57,345 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,345 | Player Group: AIs
+INFO2022-02-26 10:59:57,346 | Total Coins :27
+INFO2022-02-26 10:59:57,346 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,361 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,361 | Total Coins :152
+INFO2022-02-26 10:59:57,362 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,362 | Player Group: AIs
+INFO2022-02-26 10:59:57,362 | Total Coins :27
+INFO2022-02-26 10:59:57,362 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,378 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,378 | Total Coins :152
+INFO2022-02-26 10:59:57,379 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,379 | Player Group: AIs
+INFO2022-02-26 10:59:57,379 | Total Coins :27
+INFO2022-02-26 10:59:57,379 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,394 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,395 | Total Coins :152
+INFO2022-02-26 10:59:57,395 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,395 | Player Group: AIs
+INFO2022-02-26 10:59:57,395 | Total Coins :27
+INFO2022-02-26 10:59:57,395 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,411 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,412 | Total Coins :152
+INFO2022-02-26 10:59:57,412 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,412 | Player Group: AIs
+INFO2022-02-26 10:59:57,412 | Total Coins :27
+INFO2022-02-26 10:59:57,412 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,428 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,428 | Total Coins :152
+INFO2022-02-26 10:59:57,429 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,429 | Player Group: AIs
+INFO2022-02-26 10:59:57,429 | Total Coins :27
+INFO2022-02-26 10:59:57,429 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,445 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,445 | Total Coins :152
+INFO2022-02-26 10:59:57,446 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,446 | Player Group: AIs
+INFO2022-02-26 10:59:57,446 | Total Coins :27
+INFO2022-02-26 10:59:57,446 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,461 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,462 | Total Coins :152
+INFO2022-02-26 10:59:57,462 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,462 | Player Group: AIs
+INFO2022-02-26 10:59:57,462 | Total Coins :27
+INFO2022-02-26 10:59:57,462 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,477 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,477 | Total Coins :152
+INFO2022-02-26 10:59:57,477 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,477 | Player Group: AIs
+INFO2022-02-26 10:59:57,478 | Total Coins :27
+INFO2022-02-26 10:59:57,478 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,764 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,764 | Total Coins :152
+INFO2022-02-26 10:59:57,764 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,764 | Player Group: AIs
+INFO2022-02-26 10:59:57,764 | Total Coins :27
+INFO2022-02-26 10:59:57,764 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,772 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,772 | Total Coins :152
+INFO2022-02-26 10:59:57,772 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,773 | Player Group: AIs
+INFO2022-02-26 10:59:57,773 | Total Coins :27
+INFO2022-02-26 10:59:57,773 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,783 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,783 | Total Coins :152
+INFO2022-02-26 10:59:57,783 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,783 | Player Group: AIs
+INFO2022-02-26 10:59:57,783 | Total Coins :27
+INFO2022-02-26 10:59:57,783 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,787 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,788 | Total Coins :152
+INFO2022-02-26 10:59:57,788 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,788 | Player Group: AIs
+INFO2022-02-26 10:59:57,788 | Total Coins :27
+INFO2022-02-26 10:59:57,788 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,796 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,796 | Total Coins :152
+INFO2022-02-26 10:59:57,796 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,796 | Player Group: AIs
+INFO2022-02-26 10:59:57,796 | Total Coins :27
+INFO2022-02-26 10:59:57,796 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,807 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,807 | Total Coins :152
+INFO2022-02-26 10:59:57,807 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,807 | Player Group: AIs
+INFO2022-02-26 10:59:57,807 | Total Coins :27
+INFO2022-02-26 10:59:57,807 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,812 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,813 | Total Coins :152
+INFO2022-02-26 10:59:57,813 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,813 | Player Group: AIs
+INFO2022-02-26 10:59:57,813 | Total Coins :27
+INFO2022-02-26 10:59:57,813 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,838 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,838 | Total Coins :152
+INFO2022-02-26 10:59:57,838 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,838 | Player Group: AIs
+INFO2022-02-26 10:59:57,838 | Total Coins :27
+INFO2022-02-26 10:59:57,838 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,850 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,851 | Total Coins :152
+INFO2022-02-26 10:59:57,851 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,851 | Player Group: AIs
+INFO2022-02-26 10:59:57,851 | Total Coins :27
+INFO2022-02-26 10:59:57,852 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,858 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,858 | Total Coins :152
+INFO2022-02-26 10:59:57,858 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,858 | Player Group: AIs
+INFO2022-02-26 10:59:57,858 | Total Coins :27
+INFO2022-02-26 10:59:57,858 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,866 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,867 | Total Coins :152
+INFO2022-02-26 10:59:57,867 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,867 | Player Group: AIs
+INFO2022-02-26 10:59:57,867 | Total Coins :27
+INFO2022-02-26 10:59:57,867 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:57,900 | Player Group: HUMANS
+INFO2022-02-26 10:59:57,901 | Total Coins :152
+INFO2022-02-26 10:59:57,901 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:57,901 | Player Group: AIs
+INFO2022-02-26 10:59:57,901 | Total Coins :27
+INFO2022-02-26 10:59:57,902 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,336 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,336 | Total Coins :152
+INFO2022-02-26 10:59:58,337 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,337 | Player Group: AIs
+INFO2022-02-26 10:59:58,337 | Total Coins :27
+INFO2022-02-26 10:59:58,337 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,340 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,340 | Total Coins :152
+INFO2022-02-26 10:59:58,340 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,340 | Player Group: AIs
+INFO2022-02-26 10:59:58,340 | Total Coins :27
+INFO2022-02-26 10:59:58,340 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,344 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,344 | Total Coins :152
+INFO2022-02-26 10:59:58,344 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,344 | Player Group: AIs
+INFO2022-02-26 10:59:58,344 | Total Coins :27
+INFO2022-02-26 10:59:58,344 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,349 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,350 | Total Coins :152
+INFO2022-02-26 10:59:58,350 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,351 | Player Group: AIs
+INFO2022-02-26 10:59:58,351 | Total Coins :27
+INFO2022-02-26 10:59:58,351 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,356 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,356 | Total Coins :152
+INFO2022-02-26 10:59:58,356 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,357 | Player Group: AIs
+INFO2022-02-26 10:59:58,357 | Total Coins :27
+INFO2022-02-26 10:59:58,357 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,362 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,362 | Total Coins :152
+INFO2022-02-26 10:59:58,362 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,362 | Player Group: AIs
+INFO2022-02-26 10:59:58,362 | Total Coins :27
+INFO2022-02-26 10:59:58,362 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,386 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,386 | Total Coins :152
+INFO2022-02-26 10:59:58,387 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,387 | Player Group: AIs
+INFO2022-02-26 10:59:58,387 | Total Coins :27
+INFO2022-02-26 10:59:58,387 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,390 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,391 | Total Coins :152
+INFO2022-02-26 10:59:58,392 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,392 | Player Group: AIs
+INFO2022-02-26 10:59:58,393 | Total Coins :27
+INFO2022-02-26 10:59:58,393 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,408 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,408 | Total Coins :152
+INFO2022-02-26 10:59:58,408 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,408 | Player Group: AIs
+INFO2022-02-26 10:59:58,409 | Total Coins :27
+INFO2022-02-26 10:59:58,409 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,412 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,412 | Total Coins :152
+INFO2022-02-26 10:59:58,413 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,413 | Player Group: AIs
+INFO2022-02-26 10:59:58,414 | Total Coins :27
+INFO2022-02-26 10:59:58,416 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,425 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,426 | Total Coins :152
+INFO2022-02-26 10:59:58,427 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,427 | Player Group: AIs
+INFO2022-02-26 10:59:58,428 | Total Coins :27
+INFO2022-02-26 10:59:58,429 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,438 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,439 | Total Coins :152
+INFO2022-02-26 10:59:58,439 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,440 | Player Group: AIs
+INFO2022-02-26 10:59:58,441 | Total Coins :27
+INFO2022-02-26 10:59:58,441 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,548 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,548 | Total Coins :152
+INFO2022-02-26 10:59:58,549 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,549 | Player Group: AIs
+INFO2022-02-26 10:59:58,549 | Total Coins :27
+INFO2022-02-26 10:59:58,549 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,552 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,552 | Total Coins :152
+INFO2022-02-26 10:59:58,552 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,552 | Player Group: AIs
+INFO2022-02-26 10:59:58,552 | Total Coins :27
+INFO2022-02-26 10:59:58,552 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 10:59:58,554 | Player Group: HUMANS
+INFO2022-02-26 10:59:58,555 | Total Coins :152
+INFO2022-02-26 10:59:58,555 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 10:59:58,555 | Player Group: AIs
+INFO2022-02-26 10:59:58,555 | Total Coins :27
+INFO2022-02-26 10:59:58,555 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 11:00:00,486 | Player Group: HUMANS
+INFO2022-02-26 11:00:00,487 | Total Coins :152
+INFO2022-02-26 11:00:00,487 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 11:00:00,487 | Player Group: AIs
+INFO2022-02-26 11:00:00,487 | Total Coins :27
+INFO2022-02-26 11:00:00,487 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 11:00:00,491 | Player Group: HUMANS
+INFO2022-02-26 11:00:00,491 | Total Coins :152
+INFO2022-02-26 11:00:00,491 | Index: 0 | State: ALIVE | Name: HM63| Prof: WARRIOR | HP: 83 | EXP: 74 | ATK: 6 | DEF: 5 | Rank: 1
+INFO2022-02-26 11:00:00,491 | Player Group: AIs
+INFO2022-02-26 11:00:00,491 | Total Coins :27
+INFO2022-02-26 11:00:00,491 | Index: 0 | State: DEAD | Name: AI25| Prof: WARRIOR | HP: 0 | EXP: 51 | ATK: 6 | DEF: 5 | Rank: 0
+INFO2022-02-26 11:17:03,940 | Game of Champion 0.10 has started.
+INFO2022-02-26 11:17:03,941 | Initializing Pygame object.
+INFO2022-02-26 11:17:04,907 | Loading Game Setup module.
+INFO2022-02-26 11:19:08,732 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-26 11:19:09,419 | User has pressed S - Start.
+INFO2022-02-26 11:19:09,422 | Setting up units for HM player.
+INFO2022-02-26 11:19:09,422 | Setting up unit HM45 player.
+INFO2022-02-26 11:19:09,423 | Setting up unit HM29 player.
+INFO2022-02-26 11:19:09,423 | Setting up unit HM69 player.
+INFO2022-02-26 11:19:09,423 | Setting up units for AI player.
+INFO2022-02-26 11:19:09,423 | Setting up unit AI77 player.
+INFO2022-02-26 11:19:09,423 | Setting up unit AI28 player.
+INFO2022-02-26 11:19:09,423 | Setting up unit AI33 player.
+INFO2022-02-26 11:19:09,602 | Player Group: HUMANS
+INFO2022-02-26 11:19:09,603 | Total Coins :0
+INFO2022-02-26 11:19:09,603 | Index: 0 | State: ALIVE | Name: HM45| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 12 | DEF: 6 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Index: 1 | State: ALIVE | Name: HM29| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Index: 2 | State: ALIVE | Name: HM69| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 12 | DEF: 6 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Player Group: AIs
+INFO2022-02-26 11:19:09,603 | Total Coins :0
+INFO2022-02-26 11:19:09,603 | Index: 0 | State: ALIVE | Name: AI77| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 12 | DEF: 6 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Index: 1 | State: ALIVE | Name: AI28| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 12 | DEF: 6 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Index: 2 | State: ALIVE | Name: AI33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 7 | DEF: 15 | Rank: 0
+INFO2022-02-26 11:19:09,603 | Battle has started.
+INFO2022-02-26 11:47:50,216 | Game of Champion 0.10 has started.
+INFO2022-02-26 11:47:50,217 | Initializing Pygame object.
+INFO2022-02-26 11:47:51,740 | Loading Game Setup module.
+INFO2022-02-26 11:48:02,929 | User has press C - Complete, to complete the human units selection.
+INFO2022-02-26 11:48:05,538 | User has pressed S - Start.
+INFO2022-02-26 11:48:05,543 | Setting up units for HM player.
+INFO2022-02-26 11:48:05,543 | Setting up unit HM37 player.
+INFO2022-02-26 11:48:05,543 | Setting up unit HM69 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit HM06 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit HM96 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit HM74 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit HM02 player.
+INFO2022-02-26 11:48:05,544 | Setting up units for AI player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI89 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI21 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI39 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI24 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI55 player.
+INFO2022-02-26 11:48:05,544 | Setting up unit AI33 player.
+INFO2022-02-26 11:48:05,858 | Player Group: HUMANS
+INFO2022-02-26 11:48:05,858 | Total Coins :0
+INFO2022-02-26 11:48:05,858 | Index: 0 | State: ALIVE | Name: HM37| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,858 | Index: 1 | State: ALIVE | Name: HM69| Prof: TANK | HP: 100 | EXP: 0 | ATK: 3 | DEF: 13 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 2 | State: ALIVE | Name: HM06| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 3 | State: ALIVE | Name: HM96| Prof: TANK | HP: 100 | EXP: 0 | ATK: 3 | DEF: 13 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 4 | State: ALIVE | Name: HM74| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 5 | State: ALIVE | Name: HM02| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Player Group: AIs
+INFO2022-02-26 11:48:05,859 | Total Coins :0
+INFO2022-02-26 11:48:05,859 | Index: 0 | State: ALIVE | Name: AI89| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 1 | State: ALIVE | Name: AI21| Prof: TANK | HP: 100 | EXP: 0 | ATK: 3 | DEF: 13 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 2 | State: ALIVE | Name: AI39| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 3 | State: ALIVE | Name: AI24| Prof: TANK | HP: 100 | EXP: 0 | ATK: 3 | DEF: 13 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 4 | State: ALIVE | Name: AI55| Prof: WARRIOR | HP: 100 | EXP: 0 | ATK: 15 | DEF: 8 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Index: 5 | State: ALIVE | Name: AI33| Prof: TANK | HP: 100 | EXP: 0 | ATK: 3 | DEF: 13 | Rank: 0
+INFO2022-02-26 11:48:05,859 | Battle has started.

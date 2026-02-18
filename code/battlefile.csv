@@ -1,0 +1,4 @@
+﻿playername,playerclass,playertype,curhealth,currank,curexp,playerindex,profile,avatar
+AAA,Human,W,100,0,0,1,"""/Users/joeldizon/Documents/Project_BattleGame/assets/char1.png""","""/Users/joeldizon/Documents/Project_BattleGame/assets/char1_head.png"""
+BBB,Human,T,80,0,0,2,"""/Users/joeldizon/Documents/Project_BattleGame/assets/char2.png""","""/Users/joeldizon/Documents/Project_BattleGame/assets/char2_head.png"""
+CCC,Human,W,60,0,0,3,"""/Users/joeldizon/Documents/Project_BattleGame/assets/char3.png""","""/Users/joeldizon/Documents/Project_BattleGame/assets/char3_head.png"""
